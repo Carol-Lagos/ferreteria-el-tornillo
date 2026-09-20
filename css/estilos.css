@@ -476,6 +476,25 @@ button {
   font-size: 1rem;
 }
 
+.pricing-legend {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: var(--spacing-sm);
+  padding: 0.4rem 1rem;
+  background-color: var(--color-accent-light);
+  color: var(--color-primary-dark);
+  font-size: 0.875rem;
+  font-weight: 700;
+  border-radius: var(--radius-full);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
+.pricing-legend i {
+  color: var(--color-accent-hover);
+  font-size: 0.95rem;
+}
+
 .section-promo {
   padding: var(--spacing-2xl) 0;
   background-color: var(--color-bg);

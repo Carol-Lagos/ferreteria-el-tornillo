@@ -6,8 +6,8 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Número de WhatsApp oficial de la ferretería
-  const NUMERO_WHATSAPP = '525512345678';
+  // Número de WhatsApp oficial de la ferretería (Colombia)
+  const NUMERO_WHATSAPP = '573001234567';
 
   /* ------------------------------------------------------------------------
      1. NAVEGACIÓN MÓVIL (MENÚ RESPONSIVO)
